@@ -1,6 +1,7 @@
 id=riru_edxposed_sandhook
-name=Riru - EdXposed (SandHook)
-version=v0.4.1.2_beta(SandHook)
-versionCode=4120
-author=solohsu, rk700 & MlgmXyysd
-description=Magisk version of Xposed, supported Android Pie. Require Riru - Core installed.
+name=Riru - EdXposed
+version=v0.4.5.1_beta(4463) (SandHook)
+versionCode=4463
+author=solohsu, ganyao114 & MlgmXyysd
+description=Magisk version of Xposed. Require Riru - Core v19+ installed. See change log in EdXposed Manager or Github Releases.
+api=4
